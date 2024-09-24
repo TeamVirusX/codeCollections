@@ -1,4 +1,4 @@
-# C++ CRUD with Structs and Arrays @ iAmK1ruu
+# @iAmK1ruu | C++ CRUD with Structs and Arrays 
 
 This repository contains a set of C++ files implementing the simple version of CRUD (Create, Read, Update, Delete) operations using structs and arrays.
 
