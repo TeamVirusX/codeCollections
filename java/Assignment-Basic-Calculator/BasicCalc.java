@@ -1,3 +1,4 @@
+// @iAmK1ruu (Change the variable names and prompts tytyy)
 import java.util.Scanner;
 public class BasicCalc {
     public static void main(String[] args) {
