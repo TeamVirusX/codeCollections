@@ -44,4 +44,4 @@ This repository contains a set of C++ files implementing the simple version of C
 
 ### Do Exam
 
-![Dp Exam](output-img/doExam.png)
+![Do Exam](output-img/doexam.png)
