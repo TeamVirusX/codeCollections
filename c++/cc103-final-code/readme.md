@@ -21,7 +21,7 @@ This repository contains a set of C++ files implementing the simple version of C
 - A C++ compiler (e.g., g++, clang++)
 - Basic understanding of running C++ files through the command prompt
 
-## Output
+## Sample Output Images
 ### Append Questions
 
 ![Append](output-img/append.png)
