@@ -1,4 +1,3 @@
-
 import java.util.Scanner;
 public class TheKiruuWay {
     public static void main (String[] args){
@@ -8,9 +7,10 @@ public class TheKiruuWay {
         // Considering that we are making a CLI-based program.
         System.out.println("Choose the operation\n1. Addition\n2. Subtraction\n3. Multiplication \n4. Division \n5. Modulo");
         int operation = myScanner.nextInt();
-        if ((operation > 5 || operation < 1)) 
+        if ((operation > 5 || operation < 1)) {
             System.out.println("Invalid operation!");
-        else {
+            main(args);
+        } else {
         // Getting the input for 2 operands
         System.out.print("Enter the first operand: ");
         float x = myScanner.nextFloat();
