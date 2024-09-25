@@ -1,3 +1,4 @@
+// @iAmK1ruu
 import java.util.Scanner;
 public class TheKiruuWay {
     public static void main (String[] args){
