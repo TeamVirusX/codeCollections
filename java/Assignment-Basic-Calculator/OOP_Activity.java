@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-//Keith Justine Caoile      II - BSCS - A
+// (Name) + (Course & Section);
 
 public class OOP_Activity {
  public static void main (String[] args) {
