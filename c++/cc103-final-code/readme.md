@@ -20,3 +20,11 @@ This repository contains a set of C++ files implementing the simple version of C
 ## Prerequisites
 - A C++ compiler (e.g., g++, clang++)
 - Basic understanding of running C++ files through the command prompt
+
+## Output
+!(output-img/append.png)
+!(output-img/createexam.png)
+!(output-img/deleteq.png)
+!(output-img/doexam.png)
+!(output-img/edit.png)
+!(output-img/readexam.png)
