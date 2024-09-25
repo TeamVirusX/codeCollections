@@ -22,9 +22,26 @@ This repository contains a set of C++ files implementing the simple version of C
 - Basic understanding of running C++ files through the command prompt
 
 ## Output
+### Append Questions
+
 ![Append](output-img/append.png)
+
+### Create Exam 
+
 ![Create Exam](output-img/createexam.png)
+
+### Delete Exam Question
+
 ![Delete Question](output-img/deleteq.png)
-![Do Exam](output-img/doexam.png)
+
+### Edit Exam Question
+
 ![Edit Question](output-img/edit.png)
+
+### Read Exam
+
 ![Read Exam](output-img/readexam.png)
+
+### Do Exam
+
+![Dp Exam](output-img/doExam.png)
