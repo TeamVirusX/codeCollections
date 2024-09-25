@@ -22,20 +22,15 @@ public class TheKiruuWay {
         myScanner.close();
         System.out.println("The " + operationResult[operation - 1] + " of " + x + " and " + y + " is " + total);
         }
-    }
+    
     public static float calculate(float firstOperand, float secondOperand, int operation) {
-        switch (operation) {
-            case 1:
-                return firstOperand + secondOperand;
-            case 2:
-                return firstOperand - secondOperand;
-            case 3:
-                return firstOperand * secondOperand;
-            case 4:
-                return firstOperand / secondOperand;
-            case 5:
-                return firstOperand % secondOperand;
-        }
-         return -1; // tamad ako eh
+        return switch (operation) {
+            case 1 -> firstOperand + secondOperand;
+            case 2 -> firstOperand - secondOperand;
+            case 3 -> firstOperand * secondOperand;
+            case 4 -> firstOperand / secondOperand;
+            case 5 -> firstOperand % secondOperand;
+            default -> -1;
+        };
     }
 }
