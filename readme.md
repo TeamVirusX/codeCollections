@@ -1,5 +1,5 @@
 # TeamVirusX Mini Code Collection
-# @iAmK1ruu | @KeithJP19 | @Angzky(licious) | @jellyrace
+# @iAmK1ruu | @KeithJP19 | @Angzky(licious) | @jellyrace | @beynzie
 Welcome to the **TeamVirusX Mini-Codes** repository! This is a collection of mini-codes designed for educational purposes and as a reference for various coding concepts.
 
 ## About
