@@ -1,8 +1,6 @@
-
 import java.util.Scanner;
-
+// This is the code I am going to print tyty -K1ruu
 public class basicCliCalculator {
-
     public static void main(String[] args) {
         Scanner myScanner = new Scanner(System.in);
         double firstOperand, secondOperand, totalValue;
