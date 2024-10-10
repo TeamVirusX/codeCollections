@@ -1,11 +1,11 @@
-import java.util.Scanner;
+import java.util.Scanner;        //This is where you Import the Functions you need (including the Scanner)
 
 public class MultiplicationTable {
 
 public static void main (String[] args) {
         //Declaration of the Scanner
         Scanner userInput = new Scanner(System.in);
-//User Inputs
+//User Inputs and Declaring the Variables for User Inputs
         System.out.print("Enter Rows: ");
         int rows = userInput.nextInt();
         System.out.print("Enter Columns: ");
