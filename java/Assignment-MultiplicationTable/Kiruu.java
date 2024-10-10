@@ -13,10 +13,10 @@ public class Kiruu {
             for (int j = 1; j <= rows; j++) {
                 try {
                     TimeUnit.MILLISECONDS.sleep(500);
-                    System.out.print(i * j + "\t");
                 } catch (InterruptedException e) {
                     Thread.currentThread().interrupt();
-                }  
+                }
+                System.out.print(i * j + "\t"); // Relocated the sysout so if the thread has been interrupted the animation will only fail, not the whole printing process.
             }
             System.out.println();
         }
