@@ -1,4 +1,4 @@
-// Uses a unique approach in converting grades instead of if-else and switch-case statements
+// Uses a unique approach in converting grades instead of loooooong if-else statements
 
 import java.util.Scanner;
 
