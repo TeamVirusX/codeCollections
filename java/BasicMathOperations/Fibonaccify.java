@@ -1,4 +1,5 @@
 // Using binet's formula instead of recursion and array-type implementation
+import java.lang.Math;
 import java.util.Scanner;
 public class Fibonaccify {
     public double Fibonacci(int n) {
